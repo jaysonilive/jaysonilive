@@ -5,8 +5,11 @@ Computer Science student based in Ahmedabad, dedicated to exploring the intersec
 
 🔭 What I’m currently working on
 • NexClassroom: An ongoing project building an AI-powered platform for automated assignment checking.
+
 • SplitAmigos: A completed expense management app—currently shipping new updates and features.
+
 • FRIDAY: Developing a custom personal assistant using Node.js and Python.
+
 • Vistracks: Building a personalized music recommendation engine.
 
 -----------------------------------------------------------------------------------------------------------
